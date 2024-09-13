@@ -1,7 +1,10 @@
 [
-	{
-		"title": "",
-		"image": "",
-		"link": ""
-	}
+   {
+      "message": "Hello World!",
+      "image_url": "https://example.com/images/hello_world.png"
+   },
+   {
+      "message": "Second Message",
+      "image_url": "https://example.com/images/second_message.png"
+   }
 ]
