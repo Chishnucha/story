@@ -1,13 +1,20 @@
-
 [
     {
         "name": "gta3.img",
+        "size": "10000",
         "path": "texdb/gta3.img",
-        "url": "http://141.11.159.113/api/launcher.apk"
+        "url": "http://141.11.159.113/WhiteCityGame/texdb/gta3.img"
     },
     {
         "name": "player.img",
+        "size": "10000",
         "path": "texdb/player.img",
-        "url": "http://141.11.159.113/api/api.json"
+        "url": "http://141.11.159.113/WhiteCityGame/texdb/player.img"
+    },
+    {
+        "name": "samp.img",
+        "size": "10000",
+        "path": "texdb/samp.img",
+        "url": "http://141.11.159.113/WhiteCityGame/texdb/samp.img"
     }
 ]
