@@ -1,1 +1,13 @@
 
+[
+    {
+        "name": "gta3.img",
+        "path": "texdb/gta3.img",
+        "url": "http://141.11.159.113/api/launcher.apk"
+    },
+    {
+        "name": "player.img",
+        "path": "texdb/player.img",
+        "url": "http://141.11.159.113/api/api.json"
+    }
+]
